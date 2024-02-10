@@ -1,0 +1,35 @@
+body {
+  margin: 0px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0px;
+  padding: 0px;
+}
+
+.top {
+  background: #2e73da;
+  height: 400px;
+  width: 100%;
+}
+.hat {display: flex;  
+    gap: 49px;
+    width: fit-content;
+    margin:0 auto;
+  color: black;
+  font-family: Mulish;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
